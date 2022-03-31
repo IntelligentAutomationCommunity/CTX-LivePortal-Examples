@@ -5,7 +5,7 @@
 # Cortex LivePortal Example Flows
 Examples of LivePortal custom UIs.
 
-This project contains some flows (https://github.com/IntelligentAutomationCommunity/CTX-LivePortal-Examples/blob/main/LivePortal%20Example%20Flows.studiopkg) which use HTML, CSS and JavaScript to create custom UIs.
+This project contains some flows (* [StudioPkg File](https://github.com/IntelligentAutomationCommunity/CTX-LivePortal-Examples/blob/main/LivePortal%20Example%20Flows.studiopkg)) which use HTML, CSS and JavaScript to create custom UIs.
 This builds on the default functionality of LivePortal and improves capabilities for User-Driven Automation, User-Assisted Automation and Reporting.
 Each flow includes documentation explaining how the UI functions.
 
