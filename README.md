@@ -58,7 +58,7 @@ This includes a textbox to filter the table, utilising a 'debounce' function whi
 This is suitable for larger datasets which may cause performance issues by applying the filter after each keypress.
 
 
-### 7. Table-with-Radio-Busttons
+### 7. Table-with-Radio-Buttons
 An HTML Table using a Repeat Start / End control to generate it from a List variable. 
 This allows a user to select one of three columns in each row by adding radio buttons.
 
