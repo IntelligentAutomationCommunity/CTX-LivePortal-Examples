@@ -69,4 +69,4 @@ This allows a user to select one of three columns in each row by adding radio bu
 Download the Studio Package file and Import it into your Cortex Environment.
 Don't forget to apply rights using the Studio Authorization module.
 
-:thumbsup: Success! :wink:
+
